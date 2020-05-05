@@ -1,0 +1,11 @@
+.container  {
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.changedScore {
+
+    visibility: hidden;
+}
+
